@@ -1457,7 +1457,7 @@ body {
 .cid-r09rRcaLft {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-color: #b5edff;
 }
 .cid-r09rRcaLft h2 {
   text-align: center;
@@ -1629,15 +1629,15 @@ body {
 .cid-r0veWe7Cqp {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #b5edff;
 }
 .cid-r0veWe7Cqp .mbr-section-subtitle {
   color: #767676;
 }
 .cid-r0uTPmV32K {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b5edff;
 }
 .cid-r0uTPmV32K .counter-container {
   color: #767676;
@@ -1671,9 +1671,9 @@ body {
   border-radius: 50%;
 }
 .cid-r0vj896j1K {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b5edff;
 }
 .cid-r0vj896j1K .counter-container {
   color: #767676;
@@ -1706,10 +1706,46 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-r0vERE9Hzi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b5edff;
+}
+.cid-r0vERE9Hzi .counter-container {
+  color: #767676;
+}
+.cid-r0vERE9Hzi .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-r0vERE9Hzi .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-r0vERE9Hzi .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-r0vERE9Hzi .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #0db191;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
 .cid-r0vgBDd0Xs {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #b5edff;
 }
 .cid-r0vgBDd0Xs .mbr-text {
   color: #767676;
@@ -1717,7 +1753,7 @@ body {
 .cid-r09CyQtytY {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #b5edff;
+  background-color: #f9f9f9;
 }
 .cid-r09CyQtytY .mbr-section-subtitle {
   color: #767676;
